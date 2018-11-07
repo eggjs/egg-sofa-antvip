@@ -1,6 +1,6 @@
 {
   "name": "egg-sofa-antvip",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The sofa node antvip plugin",
   "eggPlugin": {
     "name": "sofaAntvip"
@@ -44,6 +44,7 @@
     "app",
     "config",
     "agent.js",
+    "lib",
     "app.js"
   ],
   "ci": {
