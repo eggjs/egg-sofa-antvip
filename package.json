@@ -1,6 +1,6 @@
 {
   "name": "egg-sofa-antvip",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "The sofa node antvip plugin",
   "eggPlugin": {
     "name": "sofaAntvip"
@@ -14,14 +14,14 @@
     "antvip"
   ],
   "dependencies": {
-    "antfin-sofa-node-antvip": "^0.0.1"
+    "antfin-sofa-node-antvip": "^1.0.0"
   },
   "devDependencies": {
     "autod": "^3.0.1",
     "egg-bin": "^4.9.0",
     "egg-ci": "^1.9.2",
     "egg-mock": "^3.20.1",
-    "egg-sofa-dsr": "^0.0.2",
+    "egg-sofa-dsr": "^1.0.0",
     "eslint": "^5.6.1",
     "eslint-config-egg": "^7.1.0",
     "mz": "^2.7.0",
